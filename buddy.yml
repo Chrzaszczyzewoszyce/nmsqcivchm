@@ -1,5 +1,5 @@
-- pipeline: "nmngbbvkfv"
+- pipeline: "xarkdcluwr"
   trigger_mode: "SCHEDULED"
-  ref_type: "WILDCARD"
-  ref_name: "*"
+  ref_type: "TAG"
+  ref_name: "v130"
   cron: "5 * * * *"
