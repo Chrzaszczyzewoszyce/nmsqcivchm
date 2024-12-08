@@ -1,4 +1,4 @@
-- pipeline: "ikmesrfuiu"
-  trigger_mode: "ON_EVERY_PUSH"
-  ref_type: "TAG"
-  ref_name: "v964"
+- pipeline: "lgniexplvu"
+  trigger_mode: "MANUAL"
+  ref_type: "NONE"
+  trigger_condition: "ALWAYS"
